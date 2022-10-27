@@ -1,17 +1,15 @@
 {
-	"type": "FeatureCollection",
-	"metadata": { "generated": 1455162818000, "url": "http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2015-01-01&endtime=2015-12-31&minmagnitude=6", "title": "USGS Earthquakes", "status": 200, "api": "1.1.1", "count": 156 },
+	
 	"features": [
 		{
-			"type": "Feature",
+			
 			"geometry": { "type": "Point", "coordinates": [71.1263, 36.4935, 206] },
 			"id": "us100049i1"
 		},
 		{
-			"type": "Feature",
+			
 			"geometry": { "type": "Point", "coordinates": [169.3857, -18.3819, 10] },
 			"id": "us1000489i"
 		}
-	],
-	"bbox": [-178.7298, -55.755, 5, 179.1278, 59.8935, 664]
+	]
 }
